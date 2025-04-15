@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>About Us - Restore Enterprise Services</title>
+  <link rel="stylesheet" href="css/style.css" />
+</head>
+<body>
+  <header>
+    <h1>About Us</h1>
+    <nav>
+      <a href="index.html">Home</a>
+      <a href="about.html">About</a>
+      <a href="services.html">Services</a>
+      <a href="contact.html">Contact</a>
+    </nav>
+  </header>
+  <main>
+    <section>
+      <p>We are a Dubai-based consultancy offering expert guidance in project management, business strategies, marketing, and financial services.</p>
+    </section>
+  </main>
+  <footer>
+    <p>&copy; 2025 Restore Enterprise Services</p>
+  </footer>
+</body>
+</html>
