@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Our Services - Restore Enterprise Services</title>
+  <link rel="stylesheet" href="css/style.css" />
+</head>
+<body>
+  <header>
+    <h1>Our Services</h1>
+    <nav>
+      <a href="index.html">Home</a>
+      <a href="about.html">About</a>
+      <a href="services.html">Services</a>
+      <a href="contact.html">Contact</a>
+    </nav>
+  </header>
+  <main>
+    <ul>
+      <li>Project Management</li>
+      <li>Business Strategy Consulting</li>
+      <li>Marketing Strategy and Branding</li>
+      <li>Financial Planning and Advice</li>
+    </ul>
+  </main>
+  <footer>
+    <p>&copy; 2025 Restore Enterprise Services</p>
+  </footer>
+</body>
+</html>
