@@ -388,6 +388,20 @@ background-image: linear-gradient(134deg, #0C0091 0%, #00A87E 100%);
     font-weight: 200;
 }
 
+.yeo-footer-content.copyright {
+    display: flex;
+    width: 100%;
+    height: 100%;
+}
+
+.yeo-footer-content.copyright p {
+    display: flex;
+    flex: auto;
+    justify-content: flex-end;
+    align-items: flex-end;
+    margin-bottom: 0;
+}
+
 
 
 @media (max-width: 600px) {
