@@ -1534,6 +1534,10 @@ video.video-responsive::before {
   margin-right: -.4rem;
 }
 
+.columns.space-between {
+  justify-content: space-between;
+}
+
 .columns.col-gapless {
   margin-left: 0;
   margin-right: 0;
